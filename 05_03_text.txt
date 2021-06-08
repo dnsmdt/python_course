@@ -1,0 +1,5 @@
+Jones - 90000
+Stone - 110000
+Edgeworth - 125000
+Gumshoe - 1005
+Somedude - 5451
